@@ -14,3 +14,5 @@ First we install and import the required dependencies. These include:
 * `torchtext` for data collection
 * `sentencepiece` for subword tokenization
 * `sacrebleu` for BLEU score evaluation
+
+## implementation 
